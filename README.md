@@ -5,11 +5,13 @@ This dataset is also a good opportunity to get a high level understanding of mai
 
 ## Data Visualization and Models 
 
-Visualized the data using PCA(Principal Component Analysis) and 
-T-SNE LOGISTIC REGRESSION applied logistic regression and classified failures , using Roc curve found the best threshold that gives the cost of 27150. 
+Visualized the data using PCA(Principal Component Analysis) and T-SNE.
 
-RANDOM FOREST applied Random forest and classified failures , using Roc curve found the
-best threshold that gives the cost of 8870. 
+LOGISTIC REGRESSION applied logistic regression and classified failures , using Roc curve found 
+the best threshold that gives the cost of 27150. 
+
+RANDOM FOREST applied Random forest and classified failures , using Roc curve found 
+the best threshold that gives the cost of 8870. 
 
 XG-BOOST applied logistic regression and classified failures , using Roc curve found 
 the best threshold that gives the cost of 8680.
